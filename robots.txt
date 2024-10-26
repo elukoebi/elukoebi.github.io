@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://elukoebi.github.io/sitemap_index.elukoebi
